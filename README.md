@@ -81,7 +81,7 @@ Follow these steps to set up the project and run it locally.
 
 `flutter build web`
 
-## Troubleshooting
+## Troubleshooting 
 
 If you encounter any issues during setup or development:
 

@@ -1,8 +1,8 @@
 ### **1. Einstiegspunkt und Hauptstruktur**
 1. **Einstiegspunkt analysieren (`main.dart`):**
-  [ ] Finde die `main`-Funktion.
-  [ ] Identifiziere das Haupt-Widget der App (z. B. `MaterialApp` oder `CupertinoApp`).
-  [ ] Überprüfe die Navigation:
+  - [ ] Finde die `main`-Funktion.
+  - [ ] Identifiziere das Haupt-Widget der App (z. B. `MaterialApp` oder `CupertinoApp`).
+  - [ ] Überprüfe die Navigation:
      - Welche Route oder welches Widget wird als `home` gestartet?
      - Gibt es ein `onGenerateRoute` oder `routes`-Mapping?
 
